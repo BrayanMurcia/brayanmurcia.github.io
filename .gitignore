@@ -1,0 +1,14 @@
+# IDE folders
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Dependencies (si usas npm)
+node_modules/
+
+# Build outputs (si los hay)
+dist/
+build/
